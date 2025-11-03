@@ -9,7 +9,3 @@ It’s part of my exercises following *Hands-On Machine Learning with Scikit-Lea
 - Neural Network built with Keras
 - Model evaluation and confusion matrix
 
-## Preview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/iris_project/main/iris_classification_plot.png" width="60%" alt="Iris Classification Results">
-</p>
